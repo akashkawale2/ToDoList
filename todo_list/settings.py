@@ -26,7 +26,7 @@ SECRET_KEY = 'n*(h4)+-*dl!byp5gf9&@p08n955o6)=z1dxi6(a9za#oncbtw'
 DEBUG = False
 
 
-ALLOWED_HOSTS = ['.vercel.app', '.now.sh']
+ALLOWED_HOSTS = ['.vercel.app', '.now.sh','*']
 
 
 # Application definition
